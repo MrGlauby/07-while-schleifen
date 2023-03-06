@@ -32,6 +32,13 @@ while(x < 5){
     x++;
 };
 
+// let y= 0; //zählen
+// while(x < 5){
+//     // x += 1     //x = x +1;  // x++;
+//     console.log(`While: ${x} `);
+//     x++;
+// };
+
 //for schelife (wichtigste)
 
 // Sie Code eine bestimmte Anzahl von Malen ausführen müssen.
